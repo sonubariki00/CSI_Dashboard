@@ -1,0 +1,5 @@
+name,current_version,latest_version,cve_count,ontap_version
+PHP,9.16.1,9.16.2,3,9.14.1
+SQLite,3.35.5,3.35.5,0,9.14.1
+Apache,2.4.46,2.4.48,2,9.14.1
+Python,3.9.5,3.9.6,1,9.14.1
